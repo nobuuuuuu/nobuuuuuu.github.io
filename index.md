@@ -40,6 +40,8 @@
 
 ![T-Shirt Giveway](https://media.discordapp.net/attachments/776788393547661332/801499614153932840/unnamed.png "Korsishirt")
 
+---
+
 ### Acquérir les jeux
 
 * [Genshin Impact](https://genshin.mihoyo.com/ "Vers le site de Mihoyo")
