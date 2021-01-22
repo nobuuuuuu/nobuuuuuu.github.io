@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+## Stream 24H Korsikaa *22/01/2021*
 
-You can use the [editor on GitHub](https://github.com/nobuuuuuu/nobuuuuuu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![Le logo de Korsikaa](https://static-cdn.jtvnw.net/jtv_user_pictures/f42308bc-cbcb-4581-9062-3cb6e9dcbe4b-profile_image-70x70.png "Korsikaa")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+### Planning participants
 
-### Markdown
+#### Vendredi
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+|Genshin Impact|Give Away|Among us|Rocket league|Jeu d'horreur|Genshin Abysses|
+|---|---|---|---|---|---|
+|*19:00 -> 22:30*|*22:30 -> 23:00*|*23:00 -> 00:30*|*00:30 -> 02:30*|*02:30 -> 04:30*|*04:30 -> 07:00*|
+|   |   |Stary#9464
+|   |   |Queenie#2888
+|   |   |falagraf#6463
+|   |   |Shawnshlag#4166
+|   |   |onewara#4056
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#### Samedi
 
-- Bulleted
-- List
+|Rocket League|P'tit déj' - Talk|Give Away|Skribblio|Genshin Impact|Rocket League|
+|---|---|---|---|---|---|
+|*07:30 -> 09:30*|*09:30 -> 11:00*|*11:00 -> 11:30*|*11:30 -> 13:30*|*13:30 -> 17:30*|*17:30 -> NA*|
+|   |   |   |\~°matonkill1°\~#8834|
 
-1. Numbered
-2. List
+> `!planning` affiche le planning du stream
 
-**Bold** and _Italic_ and `Code` text
+> `!play` affiche les modalités pour jouer avec moi
 
-[Link](url) and ![Image](src)
-```
+> `!giveaway` affiche les modalités du give away
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+> `!shop` vous donne le lien pour acheter votre ticket afin de pouvoir participer au give away
 
-### Jekyll Themes
+***Korsishirt***
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nobuuuuuu/nobuuuuuu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![T-Shirt Giveway](https://media.discordapp.net/attachments/776788393547661332/801499614153932840/unnamed.png "Korsishirt")
 
-### Support or Contact
+### Acquérir les jeux
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [Genshin Impact](https://genshin.mihoyo.com/ "Vers le site de Mihoyo")
+
+* [Phasmophobia](https://store.steampowered.com/app/739630/Phasmophobia/ "Vers le site de Steam")
+
+* [Rocket league](https://www.epicgames.com/store/fr/product/rocket-league/home "Vers le site de Epic Games")
+
+* [Skribblio](https://skribbl.io/ "Vers le site de Skribblio")
+
+* [Among us](https://store.steampowered.com/app/945360/Among_Us/ "Vers le site de Steam")
+
+*&copy;Korsikaa - 2021 - https://www.twitch.tv/korsikaa*
