@@ -5,6 +5,8 @@
 ---
 ### Planning participants
 
+##### Tu veux participer ? Contacte-moi sur discord **Lifendyel#6564**
+
 #### Vendredi
 
 |Genshin Impact|Give Away|Among us|Rocket league|Jeu d'horreur|Genshin Abysses|
