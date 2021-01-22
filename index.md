@@ -10,8 +10,8 @@
 |Genshin Impact|Give Away|Among us|Rocket league|Jeu d'horreur|Genshin Abysses|
 |---|---|---|---|---|---|
 |*19:00 -> 22:30*|*22:30 -> 23:00*|*23:00 -> 00:30*|*00:30 -> 02:30*|*02:30 -> 04:30*|*04:30 -> 07:00*|
-|   |   |Stary#9464
-|   |   |Queenie#2888
+|   |   |Stary#9464|JIY0S#9263
+|   |   |Queenie#2888|Shawnshlag#4166
 |   |   |falagraf#6463
 |   |   |Shawnshlag#4166
 |   |   |onewara#4056
