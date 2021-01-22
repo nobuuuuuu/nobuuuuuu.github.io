@@ -24,6 +24,10 @@
 |*07:30 -> 09:30*|*09:30 -> 11:00*|*11:00 -> 11:30*|*11:30 -> 13:30*|*13:30 -> 17:30*|*17:30 -> NA*|
 |   |   |   |\~°matonkill1°\~#8834|
 
+---
+
+### Commandes
+
 > `!planning` affiche le planning du stream
 
 > `!play` affiche les modalités pour jouer avec moi
